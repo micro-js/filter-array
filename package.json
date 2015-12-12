@@ -1,6 +1,6 @@
 {
   "name": "@micro-js/filter-array",
-  "description": "Functional, data-first array filter. Should also be faster than the native Array.prototype.filter",
+  "description": "Functional, data-last array filter. Should also be faster than the native Array.prototype.filter",
   "repository": "git://github.com/micro-js/filter-array.git",
   "version": "1.0.0",
   "license": "MIT",

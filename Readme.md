@@ -6,7 +6,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Code style][standard-image]][standard-url]
 
-Functional, data-first array filter. Should also be faster than the native Array.prototype.filter
+Functional, data-last array filter. Should also be faster than the native Array.prototype.filter
 
 ## Installation
 
