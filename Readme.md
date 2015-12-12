@@ -29,6 +29,7 @@ function isEven (n) {
 ### filterArray(fn, arr)
 
 - `fn` - The predicate function that decides whether the value is kept. Receives `(value, index)` for each value in the array.
+- `arr` - The array to filter
 
 **Returns:** A new array containing only the values for which `fn(value, index)` returned truthy.
 
