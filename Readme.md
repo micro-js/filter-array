@@ -10,12 +10,12 @@ Functional, data-last array filter. Should also be faster than the native Array.
 
 ## Installation
 
-    $ npm install @micro-js/filter-array
+    $ npm install @f/filter-array
 
 ## Usage
 
 ```js
-var filterArray = require('@micro-js/filter-array')
+var filterArray = require('@f/filter-array')
 
 filterArray(isEven, [1,2,3,4,5]) // -> [2, 4]
 
@@ -43,5 +43,5 @@ MIT
 [git-url]: https://github.com/micro-js/filter-array
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/filter-array.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/filter-array
+[npm-image]: https://img.shields.io/npm/v/@f/filter-array.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/filter-array
